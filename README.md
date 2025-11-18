@@ -69,5 +69,5 @@ RegisterNumber:25013493
 **Result:**
 Thus, the given logic functions are implemented using logic gates and their operations are verified using Verilog programming.
 
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+
 
