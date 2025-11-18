@@ -55,11 +55,11 @@ RegisterNumber:25013493
 
 
 **RTL realization Output:
-<img width="1181" height="745" alt="Screenshot 2025-11-18 212740" src="https://github.com/user-attachments/assets/bcca7fb3-098b-44a6-8bb9-39387a45fa60" />
 
+
+<img width="1181" height="745" alt="Screenshot 2025-11-18 212740" src="https://github.com/user-attachments/assets/f022cf3b-4ca9-4822-a02b-6a0573b22fb4" />
 
 **Output:**
-
 
 **RTL**
 <img width="1458" height="485" alt="Screenshot 2025-11-18 212710" src="https://github.com/user-attachments/assets/8c118664-d32a-4762-8ca2-8547081e672e" />
