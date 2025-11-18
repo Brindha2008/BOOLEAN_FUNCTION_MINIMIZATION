@@ -1,4 +1,5 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
+Date:18/11/2025
 
 **AIM:**
 
@@ -32,21 +33,39 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+```
+module boolean_function_4var (
+    input  wire A,
+    input  wire B,
+    input  wire C,
+    input  wire D,
+    output wire F
+);
 
+assign F = (~A & B) | (C & D) | (A & ~D);
+
+endmodule
+```
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by:Brindha A R
+RegisterNumber:25013493
 
 
-**RTL realization**
+**RTL realization Output:
+<img width="1181" height="745" alt="Screenshot 2025-11-18 212740" src="https://github.com/user-attachments/assets/bcca7fb3-098b-44a6-8bb9-39387a45fa60" />
+
 
 **Output:**
 
+
 **RTL**
+<img width="1458" height="485" alt="Screenshot 2025-11-18 212710" src="https://github.com/user-attachments/assets/8c118664-d32a-4762-8ca2-8547081e672e" />
 
 **Timing Diagram**
 
 **Result:**
+Thus, the given logic functions are implemented using logic gates and their operations are verified using Verilog programming.
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
